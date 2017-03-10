@@ -35,7 +35,7 @@ The basIntersection.bas was pulled from the internet back in 2013.  Unfortunatel
 
 ## License
 
-This code is available under the [MIT License.] (LICENSE.txt)
+This code is available under the [MIT License.] (LICENSEt)
 
 <img src="LiDAR.PNG" width="400" height="400" border="10" />
 <img src="LiDARprofile.PNG" width="450" height="300" border="10" />
